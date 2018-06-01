@@ -1,0 +1,133 @@
+
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+body {
+/*	background: url(../images/dirtywhite.jpg) no-repeat center center fixed;*/
+	background-size: cover;
+
+	margin-top: -70px;
+	padding-top: 80px;
+	background: #f2f2f2;
+
+	font-family: 'Roboto Mono', monospace;
+}
+
+
+
+/*.me {
+    box-shadow: 0px 4px 6px 2px lightgrey;
+    border-radius: 50%;
+}*/
+
+/*nav {
+	display: flex;
+	display: block;
+}*/
+
+/*p {
+	display: block;
+}*/
+
+/*.card {
+    height: 15rem;
+    object-fit: cover;
+}*/
+
+
+.card-img-top {
+    height: 15rem;
+    object-fit: cover;
+}
+
+.fa-html5:hover {
+	color: #e34f26;
+}
+
+.fa-bold:hover {
+	color: #511378;
+}
+
+.fa-css3-alt:hover {
+	color: #037ef3;
+}
+.fa-gitlab:hover {
+	color: #fca326;
+}
+
+.fa-github:hover {
+	color: #db3552;
+}
+
+/*.vincent {
+	padding-top: 100pt;
+}*/
+
+
+/*.fa-html5,
+.fa-bold,
+.fa-css3-alt,
+.fa-gitlab,
+.fa-github
+
+ {
+	color: tomato;
+}*/
+
+i {
+	color: black;
+}
+
+.padbot {
+	padding-bottom: 210px;
+}
+
+.padbotins {
+	padding-bottom: 100px;
+}
+
+/*.v1 {
+	transform: rotate(-35deg);
+}*/
+
+div.a {
+    text-align: right;
+} 
+
+
+
+
+
+
+
+
+
+/*media queries*/
+
+/*Extra small devices (portrait phones, less than 576px)*/
+/*@media (max-width: 575.98px) { ... }*/
+
+/*Small devices (landscape phones, 576px and up)*/
+/*@media (min-width: 576px) and (max-width: 767.98px) { ... }*/
+
+/*Medium devices (tablets, 768px and up)*/
+/*@media (min-width: 768px) and (max-width: 991.98px) { ... }*/
+
+/*Large devices (desktops, 992px and up)*/
+/*@media (min-width: 992px) and (max-width: 1199.98px) { ... }*/
+
+/*Extra large devices (large desktops, 1200px and up)*/
+/*@media (min-width: 1200px) { ... }*/
+
+
+
+
+
+
+
+
